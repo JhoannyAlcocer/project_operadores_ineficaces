@@ -18,7 +18,7 @@ llamadas entrantes perdidas
 
 tiempos de espera largos
 
-pocas llamadas salientes (cuando corresponde)
+pocas llamadas salientes 
 
 Evaluar hipótesis estadísticas relacionadas con el desempeño del servicio.
 
@@ -55,9 +55,6 @@ date_start: fecha de registro
 
 Se plantea una hipótesis para evaluar si ciertas condiciones afectan la eficiencia del servicio.
 
-Ejemplo típico del proyecto (ajústalo según tus datos reales):
-
-"La duración promedio de las llamadas (o cierto tipo de llamadas) difiere entre operadores con distintos niveles de carga/condiciones."
 
 Incluye:
 
